@@ -6,7 +6,7 @@ from load_data import load_iris
 
 st.title("My Growing Garden")
 st.header("We plant plants")
-st.subheader("orchids")
+st.subheader("orchids and tulips")
 
 
 #load data
